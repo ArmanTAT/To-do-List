@@ -1,5 +1,4 @@
-# This code is in Tkinter, there is another version where this one is made using Pygame which is in "pyGame.py"
-
+# This code is in Tkinter, you can remake it using pyGame as well. 
 import tkinter as tk
 
 tasks = []
